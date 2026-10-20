@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="140 200 754 440" width="754" height="440">
+<title>Archtech Enterprises</title>
+<g transform="translate(0,34)">
+<path fill="#EFE9D9" d="M231.5,334 A285,154 0 0 1 801.5,334 H792.5 A276,121 0 0 0 240.5,334 Z"/>
+<line x1="300.5" y1="260.7" x2="300.5" y2="288" stroke="#D39F10" stroke-width="5.5"/>
+<line x1="336.5" y1="244.3" x2="336.5" y2="288" stroke="#D39F10" stroke-width="5.5"/>
+<line x1="372.5" y1="232.8" x2="372.5" y2="288" stroke="#D39F10" stroke-width="5.5"/>
+<line x1="408.5" y1="224.6" x2="408.5" y2="288" stroke="#D39F10" stroke-width="5.5"/>
+<line x1="444.5" y1="219.2" x2="444.5" y2="288" stroke="#D39F10" stroke-width="5.5"/>
+<line x1="480.5" y1="216.0" x2="480.5" y2="288" stroke="#D39F10" stroke-width="5.5"/>
+<line x1="516.5" y1="215.0" x2="516.5" y2="288" stroke="#D39F10" stroke-width="5.5"/>
+<line x1="552.5" y1="216.0" x2="552.5" y2="288" stroke="#D39F10" stroke-width="5.5"/>
+<line x1="588.5" y1="219.2" x2="588.5" y2="288" stroke="#D39F10" stroke-width="5.5"/>
+<line x1="624.5" y1="224.6" x2="624.5" y2="288" stroke="#D39F10" stroke-width="5.5"/>
+<line x1="660.5" y1="232.8" x2="660.5" y2="288" stroke="#D39F10" stroke-width="5.5"/>
+<line x1="696.5" y1="244.3" x2="696.5" y2="288" stroke="#D39F10" stroke-width="5.5"/>
+<line x1="732.5" y1="260.7" x2="732.5" y2="288" stroke="#D39F10" stroke-width="5.5"/>
+<path d="M793.0,296.7 L775.3,292.0 L771.2,264.9 L748.0,268.1 L736.9,236.4 L709.4,247.5 L692.0,212.6 L661.4,231.0 L638.4,194.8 L606.4,219.6 L579.0,183.7 L546.9,213.7 L516.5,180.0 L486.1,213.7 L454.0,183.7 L426.6,219.6 L394.6,194.8 L371.6,231.0 L341.0,212.6 L323.6,247.5 L296.1,236.4 L285.0,268.1 L261.8,264.9 L257.7,292.0 L240.0,296.7" fill="none" stroke="#0C2340" stroke-width="4.5" stroke-linejoin="round"/>
+<line x1="783.7" y1="280.5" x2="775.3" y2="292.0" stroke="#0C2340" stroke-width="4"/>
+<line x1="755.5" y1="250.1" x2="748.0" y2="268.1" stroke="#0C2340" stroke-width="4"/>
+<line x1="715.7" y1="223.8" x2="709.4" y2="247.5" stroke="#0C2340" stroke-width="4"/>
+<line x1="666.1" y1="202.9" x2="661.4" y2="231.0" stroke="#0C2340" stroke-width="4"/>
+<line x1="609.3" y1="188.4" x2="606.4" y2="219.6" stroke="#0C2340" stroke-width="4"/>
+<line x1="547.9" y1="180.9" x2="546.9" y2="213.7" stroke="#0C2340" stroke-width="4"/>
+<line x1="485.1" y1="180.9" x2="486.1" y2="213.7" stroke="#0C2340" stroke-width="4"/>
+<line x1="423.7" y1="188.4" x2="426.6" y2="219.6" stroke="#0C2340" stroke-width="4"/>
+<line x1="366.9" y1="202.9" x2="371.6" y2="231.0" stroke="#0C2340" stroke-width="4"/>
+<line x1="317.3" y1="223.8" x2="323.6" y2="247.5" stroke="#0C2340" stroke-width="4"/>
+<line x1="277.5" y1="250.1" x2="285.0" y2="268.1" stroke="#0C2340" stroke-width="4"/>
+<line x1="249.3" y1="280.5" x2="257.7" y2="292.0" stroke="#0C2340" stroke-width="4"/>
+<path fill="none" stroke="#0C2340" stroke-width="10" d="M231.5,334 A285,154 0 0 1 801.5,334"/>
+<path fill="none" stroke="#0C2340" stroke-width="6" d="M240.5,334 A276,121 0 0 1 792.5,334"/>
+<rect x="236" y="285" width="561" height="11" fill="#0C2340"/>
+<g><rect x="174" y="282" width="18" height="5" fill="#0C2340"/>
+<rect x="174" y="294" width="18" height="5" fill="#0C2340"/>
+<rect x="190" y="228" width="54" height="122" rx="2" fill="#0C2340"/>
+<rect x="198" y="240" width="38" height="96" fill="#D39F10"/>
+<rect x="184" y="334" width="66" height="16" fill="#0C2340"/>
+<rect x="190" y="338" width="54" height="8" fill="#D39F10"/>
+<rect x="171" y="348" width="96" height="18" rx="1.5" fill="#0C2340"/>
+<path d="M206,300 V258 A11,11 0 0 1 228,258 V300 Z" fill="#0C2340"/>
+<path d="M210.5,296 V259 A6.5,6.5 0 0 1 223.5,259 V296 Z" fill="#EFE9D9"/>
+<rect x="210.5" y="283" width="13" height="4" fill="#0C2340"/></g>
+<g transform="translate(1033.0,0) scale(-1,1)"><rect x="174" y="282" width="18" height="5" fill="#0C2340"/>
+<rect x="174" y="294" width="18" height="5" fill="#0C2340"/>
+<rect x="190" y="228" width="54" height="122" rx="2" fill="#0C2340"/>
+<rect x="198" y="240" width="38" height="96" fill="#D39F10"/>
+<rect x="184" y="334" width="66" height="16" fill="#0C2340"/>
+<rect x="190" y="338" width="54" height="8" fill="#D39F10"/>
+<rect x="171" y="348" width="96" height="18" rx="1.5" fill="#0C2340"/>
+<path d="M206,300 V258 A11,11 0 0 1 228,258 V300 Z" fill="#0C2340"/>
+<path d="M210.5,296 V259 A6.5,6.5 0 0 1 223.5,259 V296 Z" fill="#EFE9D9"/>
+<rect x="210.5" y="283" width="13" height="4" fill="#0C2340"/></g>
+</g>
+<clipPath id="clip440"><rect x="132" y="440" width="770" height="87"/></clipPath>
+<g clip-path="url(#clip440)" fill="none" stroke="#143865" stroke-width="11" stroke-linejoin="miter" stroke-miterlimit="10" stroke-linecap="butt">
+<path transform="translate(152.00,440)" d="M5.5,87 L42.63,1.1 L79.76,87 M16.1994,60.9 H69.06060000000001"/>
+<path transform="translate(257.53,440)" d="M5.5,87 V5.5 H38.13999999999999 A20.740000000000002,20.740000000000002 0 0 1 38.13999999999999,46.980000000000004 H5.5 M35.028999999999996,46.980000000000004 L61.08,87"/>
+<path transform="translate(342.18,440)" d="M70.87,18.07 A38.0,38.0 0 1 0 70.87,68.93"/>
+<path transform="translate(447.71,440)" d="M5.5,0 V87 M64.10000000000001,0 V87 M5.5,41.76 H64.10000000000001"/>
+<path transform="translate(537.57,440)" d="M0,5.5 H73.08 M36.54,5.5 V87"/>
+<path transform="translate(630.92,440)" d="M55.68,5.5 H5.5 V81.5 H55.68 M5.5,41.76 H51.2256"/>
+<path transform="translate(706.87,440)" d="M70.87,18.07 A38.0,38.0 0 1 0 70.87,68.93"/>
+<path transform="translate(812.40,440)" d="M5.5,0 V87 M64.10000000000001,0 V87 M5.5,41.76 H64.10000000000001"/>
+</g>
+<clipPath id="clip572"><rect x="227" y="572" width="578" height="55"/></clipPath>
+<g clip-path="url(#clip572)" fill="none" stroke="#D39F10" stroke-width="7" stroke-linejoin="miter" stroke-miterlimit="10" stroke-linecap="butt">
+<path transform="translate(247.00,572)" d="M35.2,3.5 H3.5 V51.5 H35.2 M3.5,26.4 H32.38400000000001"/>
+<path transform="translate(296.58,572)" d="M3.5,55 V-7 L40.5,62 V0"/>
+<path transform="translate(354.96,572)" d="M0,3.5 H46.199999999999996 M23.099999999999998,3.5 V55"/>
+<path transform="translate(415.54,572)" d="M35.2,3.5 H3.5 V51.5 H35.2 M3.5,26.4 H32.38400000000001"/>
+<path transform="translate(465.12,572)" d="M3.5,55 V3.5 H24.1 A13.100000000000001,13.100000000000001 0 0 1 24.1,29.700000000000003 H3.5 M22.135,29.700000000000003 L38.6,55"/>
+<path transform="translate(520.20,572)" d="M3.5,55 V3.5 H20.250000000000004 A13.650000000000002,13.650000000000002 0 0 1 20.250000000000004,30.800000000000004 H3.5"/>
+<path transform="translate(571.98,572)" d="M3.5,55 V3.5 H24.1 A13.100000000000001,13.100000000000001 0 0 1 24.1,29.700000000000003 H3.5 M22.135,29.700000000000003 L38.6,55"/>
+<path transform="translate(627.06,572)" d="M3.5,0 V55"/>
+<path transform="translate(648.44,572)" d="M30.57,9.14 A14.650000000000002,12.0 0 1 0 18.150000000000002,27.5 A14.650000000000002,12.0 0 1 1 5.73,45.86"/>
+<path transform="translate(699.12,572)" d="M35.2,3.5 H3.5 V51.5 H35.2 M3.5,26.4 H32.38400000000001"/>
+<path transform="translate(748.70,572)" d="M30.57,9.14 A14.650000000000002,12.0 0 1 0 18.150000000000002,27.5 A14.650000000000002,12.0 0 1 1 5.73,45.86"/>
+</g>
+</svg>

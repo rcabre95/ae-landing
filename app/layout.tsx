@@ -15,10 +15,34 @@ const fraunces = Fraunces({
   axes: ["opsz"],
 });
 
+const description =
+  "Enterprise AI solutions, custom designed for small business. Book a complimentary AI solutions audit and find where you can save time and money.";
+
 export const metadata: Metadata = {
-  title: "ArchTech Enterprises",
-  description:
-    "AI automation consulting. We find the pain points in your business or life and use AI to address them.",
+  metadataBase: new URL(
+    process.env.SITE_URL ?? "https://archtechenterprises.com",
+  ),
+  title: {
+    default: "ArchTech Enterprises | AI Solutions for Small Business",
+    template: "%s | ArchTech Enterprises",
+  },
+  description,
+  alternates: {
+    canonical: "/",
+  },
+  openGraph: {
+    type: "website",
+    url: "/",
+    siteName: "ArchTech Enterprises",
+    title: "ArchTech Enterprises | Your Bridge to Better Practices",
+    description,
+    locale: "en_US",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "ArchTech Enterprises | Your Bridge to Better Practices",
+    description,
+  },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

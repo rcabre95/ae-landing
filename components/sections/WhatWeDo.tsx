@@ -24,17 +24,18 @@ export function WhatWeDo() {
     <section
       id="what-we-do"
       aria-labelledby="what-we-do-heading"
-      className="py-section"
+      className="bg-muted py-section"
     >
       <Container>
         <SectionHeading
           id="what-we-do-heading"
           eyebrow="What we do"
-          title="We find what slows you down and fix it with AI."
+          title="Enterprise solutions, custom designed for small business."
         >
-          Every business and household has tasks that eat hours and add little
-          value. We dig in, find where the time goes, and build automations that
-          fit how you already work. No jargon, no one-size-fits-all software.
+          Every business has tasks that eat hours and add little value. We find
+          where the time goes and build AI automations that fit how you already
+          work. Let ArchTech earn your trust, save your time, and gain your
+          respect as your premier AI solutions firm.
         </SectionHeading>
 
         <ul className="mt-12 grid gap-6 md:grid-cols-3">
