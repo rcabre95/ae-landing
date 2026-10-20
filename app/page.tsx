@@ -1,3 +1,13 @@
+import { Hero } from "@/components/sections/Hero";
+import { HowItWorks } from "@/components/sections/HowItWorks";
+import { WhatWeDo } from "@/components/sections/WhatWeDo";
+
 export default function Home() {
-  return <h1 className="sr-only">ArchTech Enterprises</h1>;
+  return (
+    <>
+      <Hero />
+      <WhatWeDo />
+      <HowItWorks />
+    </>
+  );
 }
