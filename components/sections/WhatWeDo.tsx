@@ -38,7 +38,8 @@ export function WhatWeDo() {
           respect as your premier AI solutions firm.
         </SectionHeading>
 
-        <ul className="mt-12 grid gap-6 md:grid-cols-3">
+        {/* role="list" keeps list semantics in Safari, which drops them when list-style is none. */}
+        <ul role="list" className="mt-12 grid gap-6 lg:grid-cols-3">
           {services.map((service) => (
             <li
               key={service.title}

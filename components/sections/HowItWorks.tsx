@@ -35,7 +35,8 @@ export function HowItWorks() {
           title="From first conversation to working automation in three steps."
         />
 
-        <ol className="mt-12 grid gap-6 md:grid-cols-3">
+        {/* role="list" keeps list semantics in Safari, which drops them when list-style is none. */}
+        <ol role="list" className="mt-12 grid gap-6 lg:grid-cols-3">
           {steps.map((step, index) => (
             <li key={step.title} className="rounded-lg bg-muted p-6">
               <span

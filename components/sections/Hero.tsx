@@ -25,7 +25,7 @@ export function Hero() {
         </p>
         <a
           href="#contact"
-          className="mt-10 inline-flex min-h-12 items-center justify-center rounded-md bg-accent px-8 py-3 text-base font-semibold text-text transition-colors hover:bg-primary hover:text-background"
+          className="mt-10 inline-flex min-h-12 w-full items-center justify-center rounded-md bg-accent px-6 py-3 text-base font-semibold text-text transition-colors hover:bg-primary hover:text-background sm:w-auto sm:px-8"
         >
           Book your complimentary audit
         </a>

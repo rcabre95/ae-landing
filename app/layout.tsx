@@ -53,7 +53,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     >
       <body className="flex min-h-full flex-col bg-background text-text">
         <SiteHeader />
-        <main id="main" className="flex-1">
+        <main id="main" tabIndex={-1} className="flex-1 focus-visible:outline-none">
           {children}
         </main>
         <SiteFooter />

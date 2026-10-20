@@ -1,7 +1,6 @@
 import { Container } from "@/components/ui/Container";
 
-// TODO: Replace with the real Calendly link.
-const CALENDLY_URL = "https://calendly.com/your-link";
+const BOOKING_URL = "https://cal.com/archtechenterprises/discovery";
 const CONTACT_EMAIL = "info@archtechenterprises.com";
 
 export function Contact() {
@@ -25,18 +24,37 @@ export function Contact() {
         </p>
         <div className="mt-10 flex w-full flex-col items-center gap-4 sm:w-auto sm:flex-row">
           <a
-            href={CALENDLY_URL}
-            className="inline-flex min-h-12 w-full items-center justify-center rounded-md bg-accent px-8 py-3 text-base font-semibold text-text transition-colors hover:bg-primary hover:text-background sm:w-auto"
+            href={BOOKING_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-describedby="booking-note"
+            className="inline-flex min-h-12 w-full items-center justify-center gap-2 rounded-md bg-accent px-6 py-3 text-base font-semibold text-text transition-colors hover:bg-primary hover:text-background sm:w-auto sm:px-8"
           >
             Schedule your audit
+            <svg
+              viewBox="0 0 16 16"
+              aria-hidden="true"
+              focusable="false"
+              className="h-4 w-4"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="1.75"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            >
+              <path d="M9 3h4v4M13 3 7 9M11 9.5V13H3V5h3.5" />
+            </svg>
           </a>
           <a
             href={`mailto:${CONTACT_EMAIL}`}
-            className="inline-flex min-h-12 w-full items-center justify-center rounded-md border-2 border-primary-bright px-8 py-3 text-base font-semibold text-primary-bright transition-colors hover:bg-primary-bright hover:text-background sm:w-auto"
+            className="inline-flex min-h-12 w-full items-center justify-center rounded-md border-2 border-primary-bright px-6 py-3 text-base font-semibold text-primary-bright transition-colors hover:bg-primary-bright hover:text-background sm:w-auto sm:px-8"
           >
             Email us
           </a>
         </div>
+        <p id="booking-note" className="mt-4 text-sm">
+          Scheduling opens Cal.com in a new tab.
+        </p>
       </Container>
     </section>
   );
